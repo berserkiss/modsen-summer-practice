@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4f7CCTDNy2Q7tB25ioDttkbbmKWW0y4ckZaxA6g2qe1apS4v064G/Y4p4mbMXh/6ri+l+yULvRX4WvkzlpfLvA==",
+  "success": true,
+  "projectFilePath": "D:\\Sem6\\trwp\\Logging\\Logging\\Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annpu\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\annpu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.3\\swashbuckle.aspnetcore.swagger.9.0.3.nupkg.sha512",
+    "C:\\Users\\annpu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.3\\swashbuckle.aspnetcore.swaggergen.9.0.3.nupkg.sha512",
+    "C:\\Users\\annpu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.3\\swashbuckle.aspnetcore.swaggerui.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
