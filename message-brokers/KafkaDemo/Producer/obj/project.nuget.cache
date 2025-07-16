@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3L4B/gmSNV5T1KH41Yb+ahmx76WZbHmD9wg5ZOYi7UFcos2WniE/ESIGe7XOAzWlLE/OYeKGjSqqek25l303DQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sem6\\practice\\message-brokers\\KafkaDemo\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annpu\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\annpu\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

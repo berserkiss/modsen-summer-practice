@@ -1,0 +1,12 @@
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\bin\Debug\net8.0\Common.deps.json
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\bin\Debug\net8.0\Common.dll
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\bin\Debug\net8.0\Common.pdb
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\Common.dll
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\Common.pdb
+D:\Sem6\practice\message-brokers\MessageBrokerDemo\Common\obj\Debug\net8.0\ref\Common.dll

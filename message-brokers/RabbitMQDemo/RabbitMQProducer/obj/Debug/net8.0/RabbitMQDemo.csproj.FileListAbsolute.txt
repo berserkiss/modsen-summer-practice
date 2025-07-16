@@ -1,0 +1,6 @@
+D:\Sem6\practice\message-brokers\RabbitMQDemo\RabbitMQDemo\obj\Debug\net8.0\RabbitMQDemo.csproj.AssemblyReference.cache
+D:\Sem6\practice\message-brokers\RabbitMQDemo\RabbitMQDemo\obj\Debug\net8.0\RabbitMQDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem6\practice\message-brokers\RabbitMQDemo\RabbitMQDemo\obj\Debug\net8.0\RabbitMQDemo.AssemblyInfoInputs.cache
+D:\Sem6\practice\message-brokers\RabbitMQDemo\RabbitMQDemo\obj\Debug\net8.0\RabbitMQDemo.AssemblyInfo.cs
+D:\Sem6\practice\message-brokers\RabbitMQDemo\RabbitMQDemo\obj\Debug\net8.0\RabbitMQDemo.csproj.CoreCompileInputs.cache
+D:\Sem6\practice\message-brokers\RabbitMQDemo\RabbitMQDemo\obj\Debug\net8.0\RabbitMQDemo.sourcelink.json

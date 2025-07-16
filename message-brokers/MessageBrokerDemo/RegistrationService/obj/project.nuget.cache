@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8rTiQ+7w+ChcltZW35tUnAkkXgZr22+M+d8VMT53uSxKt+CtZdc4RWFqqMmzBk30eaqnHkk87aOtGNsi9Ay/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Sem6\\practice\\message-brokers\\MessageBrokerDemo\\RegistrationService\\RegistrationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annpu\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\annpu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\annpu\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
